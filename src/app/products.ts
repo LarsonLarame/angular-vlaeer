@@ -28,12 +28,12 @@ export const products = [
   { id: 4,
     name: 'My Phone Standard',
     price: 299,
-    description: ''
+    description: 'My phone description'
   },
   { id: 5,
     name: 'Apple',
     price: 299,
-    description: ''
+    description: 'An apple product'
   },
 ];
 
